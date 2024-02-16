@@ -181,6 +181,10 @@ hr {
     width: auto;
     color: black;
 }
+.team-btn button:hover {
+    color: #000;
+    background-color: #FFF;
+}
 
 .upper-side {
     display: flex;
@@ -270,7 +274,10 @@ hr {
     flex-direction: row-reverse;
     position: relative;
 }
-
+.contact-us  button:hover {
+    color: #000;
+    background-color: #FFF;
+}
 
 .contact-info label {
     margin: 130px 10px;
@@ -390,6 +397,7 @@ textarea {
         width: 100%;
         margin: auto;
     }
+    
 
     .const .label {
         display: flex;
@@ -428,6 +436,7 @@ textarea {
     .emergency-case-hr hr {
         display: none;
     }
+    
 
     .learn-more {}
 
