@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">This project is in partnership with the creative developer <a href="https://github.com/Loay-zeid" target="_blank">Loay zeid</a>.</h4>
+<h4 align="center">This project is a conversion of a figma design into a Landing page website.</h4>
 
 <div align="center">
   
